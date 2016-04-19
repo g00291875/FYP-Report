@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="PCdKpCqGAqBwAb0D">
-		<Info bounds="Re:0.0,0.0,1153.0,515.0" diagramId="pFLuBCqGAqBwAR2S" maximized="false" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1153.0,547.0" diagramId="X3FJBCqGAqBwATHK" maximized="false" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1153.0,547.0" diagramId="ZV4LBCqGAqBwAcUF" maximized="false" offsetX="0" offsetY="5"/>
-		<Info bounds="Re:0.0,0.0,1153.0,548.0" diagramId="EWpcJCqGAqBwAVLe" maximized="false" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,1.0,1103.0,548.0" diagramId="Q29yJCqGAqBwAVu0" maximized="false" offsetX="0" offsetY="8"/>
-		<Info bounds="Re:0.0,0.0,1153.0,548.0" diagramId="PCdKpCqGAqBwAb0D" maximized="false" offsetX="0" offsetY="363"/>
-		<Info bounds="Re:0.0,0.0,1153.0,548.0" diagramId="jPOZpCqGAqBwAaUu" maximized="false" offsetX="77" offsetY="330"/>
+	<DiagramOpenInfos activeDiagramId="IgF5lCqGAqBwASp3">
+		<Info bounds="Re:0.0,0.0,1153.0,548.0" diagramId="TrsoVCqGAqBwAUVm" maximized="false" offsetX="0" offsetY="180"/>
+		<Info bounds="Re:0.0,0.0,1124.0,548.0" diagramId="_JpGVCqGAqBwAdcx" maximized="false" offsetX="0" offsetY="236"/>
+		<Info bounds="Re:0.0,0.0,1124.0,548.0" diagramId="kS7OVCqGAqBwARLC" maximized="false" offsetX="0" offsetY="67"/>
+		<Info bounds="Re:0.0,0.0,1124.0,548.0" diagramId="ZV4LBCqGAqBwAcUF" maximized="false" offsetX="0" offsetY="8"/>
+		<Info bounds="Re:0.0,0.0,1124.0,548.0" diagramId="IgF5lCqGAqBwASp3" maximized="false" offsetX="26" offsetY="0"/>
+		<Info bounds="Re:0.0,1.0,1124.0,548.0" diagramId="Q29yJCqGAqBwAVu0" maximized="false" offsetX="318" offsetY="365"/>
+		<Info bounds="Re:0.0,0.0,1059.0,548.0" diagramId="3YwzVCqGAqBwAY07" maximized="false" offsetX="0" offsetY="72"/>
+		<Info bounds="Re:0.0,0.0,1059.0,548.0" diagramId="pFLuBCqGAqBwAR2S" maximized="false" offsetX="0" offsetY="133"/>
+		<Info bounds="Re:0.0,0.0,1059.0,548.0" diagramId="ehK01CqGAqBwAdRG" maximized="false" offsetX="0" offsetY="303"/>
+		<Info bounds="Re:0.0,0.0,1059.0,548.0" diagramId="zu_C1CqGAqBwATUu" maximized="false" offsetX="48" offsetY="420"/>
 	</DiagramOpenInfos>
 </ProjectsViewInfo>
