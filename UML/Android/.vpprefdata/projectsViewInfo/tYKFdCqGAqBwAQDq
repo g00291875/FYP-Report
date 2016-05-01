@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="g7Xp_CqGAqBwAVol">
+	<DiagramOpenInfos activeDiagramId="bicQ_CqGAqBwAdiK">
 		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="CX.FdCqGAqBwARG7" maximized="false" offsetX="0" offsetY="30"/>
 		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="3rhldCqGAqBwARI5" maximized="false" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="bicQ_CqGAqBwAdiK" maximized="false" offsetX="0" offsetY="60"/>
+		<Info bounds="Re:0.0,0.0,1153.0,600.0" diagramId="bicQ_CqGAqBwAdiK" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="pIXTfCqGAqBwAYh6" maximized="false" offsetX="0" offsetY="90"/>
-		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="DyGldCqGAqBwARIc" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="DyGldCqGAqBwARIc" maximized="false" offsetX="0" offsetY="750"/>
 		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="6W76_CqGAqBwARNq" maximized="false" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="o8nldCqGAqBwARJZ" maximized="false" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="g7Xp_CqGAqBwAVol" maximized="true" offsetX="175" offsetY="120"/>
+		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="g7Xp_CqGAqBwAVol" maximized="false" offsetX="56" offsetY="60"/>
+		<Info bounds="Re:0.0,0.0,1095.0,504.0" diagramId="xxaFdCqGAqBwARGb" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,767.0,528.0" diagramId="dk2FdCqGAqBwARGr" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,767.0,528.0" diagramId="mNLI9CqGAqBwAWT0" maximized="false" offsetX="0" offsetY="210"/>
+		<Info bounds="Re:0.0,0.0,767.0,528.0" diagramId="MhCd9CqGAqBwAa5q" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,767.0,528.0" diagramId="U0LT9CqGAqBwAb.v" maximized="false" offsetX="0" offsetY="90"/>
 	</DiagramOpenInfos>
 </ProjectsViewInfo>
